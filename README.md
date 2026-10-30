@@ -1,20 +1,21 @@
-# Demon AI — QuantumSec BioTek Engine
+# Demon AI QuantumSec BioTek Engine
 
-Full additive integration of the Lillith Desktop Avatar with QuantumSec Protons and Biotek Engine.
+**Complete rebranding of Garuda Dr460nized (Garuda Linux) with everything added.**
 
-## Source baseline
-https://github.com/kokannadian-killa/Lillith-Desktop-Avatar
+This repository is the dedicated home for a full custom DemonOS / PhantomCore distribution built on Garuda Dr460nized, fully integrated with:
 
-## Features (additive only)
-- QuantumSecShield monitoring & lockdown
-- Early-usage awakening dialog
-- Red/Blue/Purple teams panel with info popups
-- Personalization Markdown reports
-- Consent-gated bot deployment (blood seal)
-- Cyberpunk / demon theme extensions
-- systemd user service
-- DemonOS / PhantomCore ISO track
-- Data home: ~/.biotek/ (with ~/.aether fallback)
+- Lillith Desktop Avatar (Rust overlay, animations, system monitoring)
+- QuantumSec Protons (consent-gated security lattice, red/blue/purple teams, personalization reports)
+- Biotek Engine terminology migration (from Aether)
+- Cyberpunk / demon theming (GRUB, Plymouth, SDDM, Konsole, wallpapers)
+- Local Ollama AI companion
+- Full bot registry and anon swarm
+- Bootable hybrid BIOS/UEFI ISO
+
+## Goal
+A fully working, bootable Garuda-based ISO that presents as Demon AI QuantumSec BioTek Engine — nothing from the original Garuda Dr460nized experience is removed; all Lillith + QuantumSec + Biotek elements are added on top.
 
 ## Status
-Scaffolding and documentation ready. Full modules and complete ISO to follow.
+Fresh project. Ready for full implementation and ISO build.
+
+All changes are additive.
